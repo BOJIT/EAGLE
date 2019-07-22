@@ -80,10 +80,13 @@ Authors:&lt;br&gt;
 &lt;li&gt;James Bennion-Pedley [https://github.com/BOJIT]&lt;/li&gt;</description>
 <packages>
 <package name="RPI3" urn="urn:adsk.eagle:footprint:12236746/4" locally_modified="yes">
-<description>Device for Rock64 SBC
+<description>&lt;p&gt;Package for the Raspberry Pi 3 board created by Dave Young for www.element14.com based on documented dimensions and board measurements.
+For more documentation, please visit http://www.raspberrypi.org/documentation/hardware/raspberrypi/&lt;/p&gt;
 
-&lt;p&gt;SBC and Development Board Libraries are located at https://github.com/BOJIT/EAGLE
-&lt;/p&gt;</description>
+______________________&lt;br&gt; 
+UPDATE 22.7.19: Soldermask Layers Edited + outline moved to Document Layer
+
+SBC and Development Board Libraries are located at https://github.com/BOJIT/EAGLE</description>
 <wire x1="0" y1="53" x2="0" y2="3" width="0.127" layer="48"/>
 <wire x1="0" y1="3" x2="3" y2="0" width="0.127" layer="48" curve="90"/>
 <wire x1="3" y1="0" x2="82" y2="0" width="0.127" layer="48"/>
@@ -226,10 +229,10 @@ Authors:&lt;br&gt;
 </polygon>
 </package>
 <package name="RPI3MIRROR" urn="urn:adsk.eagle:footprint:12236745/4" locally_modified="yes">
-<description>Package for the Raspberry Pi 3 board created by Dave Young for www.elemenet14.com based on documented dimensions and board measurements.
-For more documentation, please visit http://www.raspberrypi.org/documentation/hardware/raspberrypi/
+<description>&lt;p&gt;Package for the Raspberry Pi 3 board created by Dave Young for www.element14.com based on documented dimensions and board measurements.
+For more documentation, please visit http://www.raspberrypi.org/documentation/hardware/raspberrypi/&lt;/p&gt;
 
-______________________ 
+______________________&lt;br&gt; 
 UPDATE 22.7.19: Soldermask Layers Edited + outline moved to Document Layer
 
 SBC and Development Board Libraries are located at https://github.com/BOJIT/EAGLE</description>
